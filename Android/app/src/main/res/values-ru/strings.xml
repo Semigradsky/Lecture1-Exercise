@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="activity">Операция</string>
+    <string name="email">Email</string>
+    <string name="type_your_message_here">Введи своё сообщение здесь…</string>
+</resources>
